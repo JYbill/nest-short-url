@@ -7,6 +7,6 @@ app:
 cloudBase: 
   env: nest-short-url-6gcqyr4y078a1cd7
   region: "ap-guangzhou"
-  secretId: AKIDEG4cuwhBOKzOWNxFG0TffOq1vYuymJZX
-  secretKey: jBMGyQJwHMAhxwe5F8k59vRgeMoyrTos
+  secretId: AKIDxkHXWEfpiKfjW2HFwLTKuCEyRcWAX0C7
+  secretKey: f4C4exzjCOJwIODk11kCMFrBE1XmjQqy
   

@@ -5,8 +5,8 @@ app:
 
 # 腾讯云配置
 cloudBase: 
-  env: xxx
-  region: xxx
-  secretId: xxxx
-  secretKey: xxxx
+  env: 环境
+  region: 地区
+  secretId: 你的腾讯云密钥ID
+  secretKey: 你的腾讯云密钥
   

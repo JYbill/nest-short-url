@@ -1,6 +1,6 @@
 {
   "version": "2.0",
-  "envId": "nest-short-url-6gcqyr4y078a1cd7",
+  "envId": "{{你的cloudbase envId}}",
   "$schema": "https://framework-1258016615.tcloudbaseapp.com/schema/latest.json",
   "framework": {
     "name": "url",
@@ -12,6 +12,11 @@
           "path": "/url",
           "entry": "app.js",
           "buildCommand": "npm install --prefer-offline --no-audit --progress=false && npm run build",
+          "ignore": [
+            "node_modules",
+            "node_modules/**",
+            ".git*"
+          ],
           "functionOptions": {
             "timeout": 5,
             "runtime": "Nodejs10.15",
@@ -32,9 +37,10 @@
       "handler": "tcbindex.main",
       "ignore": [
         "node_modules",
-        "node_modules/**"
+        "node_modules/**",
+        ".git*"
       ]
     }
   ],
-  "region": "ap-guangzhou"
+  "region": "cloudbase 地域"
 }
