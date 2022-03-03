@@ -5,8 +5,8 @@ app:
 
 # 腾讯云配置
 cloudBase: 
-  env: nest-short-url-6gcqyr4y078a1cd7
-  region: "ap-guangzhou"
-  secretId: AKIDEG4cuwhBOKzOWNxFG0TffOq1vYuymJZX
-  secretKey: jBMGyQJwHMAhxwe5F8k59vRgeMoyrTos
+  env: xxx
+  region: xxx
+  secretId: xxxx
+  secretKey: xxxx
   
