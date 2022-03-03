@@ -1,3 +1,12 @@
+# 前提
++ 本套serverless模板采用腾讯云cloudBase模板——nextjs模板进行修改，在此基础上修改了Bug，添加了no-nest-cli + webpack HMR构建，以及添加了各种常用的处理器、拦截器、全局过滤器模板。
++ 开发此项目有目的：
+  + 尝试nest + serverless的体验
+  + 构建一套自己常用的nest template开发模板
+  + java微服务转node + ts微服务的转职第一个单体应用小项目，值得纪念。🚀
+
+</br>
+
 # 技术选型
 
 + 前端：朋友帮忙开发完成
